@@ -1,6 +1,6 @@
 getgenv().ChecksSilent = {
-    Pickup = true,
-    Downed = true
+    Pickup = false,
+    Downed = false
 }
 
 function Aiming.Check()
